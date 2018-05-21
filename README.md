@@ -1,1 +1,1 @@
-# scsgsoftware.github.io
+# scsg.github.io
