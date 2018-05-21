@@ -1,0 +1,14 @@
+Package: com.scsg.appblocker
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: scsg
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Architecture: iphoneos-arm
+Filename: ./debs/com.scsg.appblocker_0.0.2-1+debug_iphoneos-arm
+Size: 16
+MD5sum: 17d3533c2cf3e86d546742ead2cb5c55
+Description: Blocks access to selected apps. Apps will refuse to open.
+Name: App Blocker
+Author: scsg
+Depiction: https://scsgsoftware.github.io/depictions/?p=com.scsg.appblocker
+
