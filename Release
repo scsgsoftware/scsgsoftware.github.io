@@ -1,8 +1,8 @@
-Origin: scsg's repo
+Origin: scsg
 Label: scsg
 Suite: stable
 Version: 1.0
-Codename: scsg
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
 Description: scsg's repository
