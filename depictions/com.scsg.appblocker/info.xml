@@ -14,17 +14,16 @@
 		<package>com.rpetrich.rocketbootstrap (>= 1.0.3)</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Blocks access to selected apps.</description>
-		<description>Apps will refuse to open.</description>
+		<description>Blocks access to selected apps. Apps will refuse to open.</description>
 	</descriptionlist>
 	<changelog>
 		<change>repo test</change>
 	</changelog>
 	<links>
 		<link>
-			<name>GitHub</name>
-			<url>https://www.scsgsoftware.github.io</url>
-			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
 </package>
